@@ -7,7 +7,6 @@ import Privacy from "./pages/Privacy";
 import Disclaimer from "./pages/Disclaimer";
 import Contact from "./pages/Contact";
 import Terms from "./pages/Terms";
-import Header from "./components/Header";
 
 
 function App() {
